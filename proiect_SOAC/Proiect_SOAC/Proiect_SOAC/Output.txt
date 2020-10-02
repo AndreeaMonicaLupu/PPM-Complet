@@ -1,0 +1,4 @@
+Trace: FPERM 
+ Corecte: 43957 
+ Total: 54819 
+ Acuratete: 80,19 % 

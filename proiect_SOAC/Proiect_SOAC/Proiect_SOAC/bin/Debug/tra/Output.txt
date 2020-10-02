@@ -1,0 +1,4 @@
+Trace: FPUZZLE 
+ Corecte: 185951 
+ Total: 204527 
+ Acuratete: 90,92 % 

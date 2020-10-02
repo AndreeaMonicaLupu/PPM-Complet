@@ -1,0 +1,9 @@
+C:\Users\Andreea\facultate\proiect_SOAC\Proiect_SOAC\Proiect_SOAC\bin\Debug\Proiect_SOAC.exe.config
+C:\Users\Andreea\facultate\proiect_SOAC\Proiect_SOAC\Proiect_SOAC\bin\Debug\Proiect_SOAC.exe
+C:\Users\Andreea\facultate\proiect_SOAC\Proiect_SOAC\Proiect_SOAC\bin\Debug\Proiect_SOAC.pdb
+C:\Users\Andreea\facultate\proiect_SOAC\Proiect_SOAC\Proiect_SOAC\obj\Debug\Proiect_SOAC.Form1.resources
+C:\Users\Andreea\facultate\proiect_SOAC\Proiect_SOAC\Proiect_SOAC\obj\Debug\Proiect_SOAC.Properties.Resources.resources
+C:\Users\Andreea\facultate\proiect_SOAC\Proiect_SOAC\Proiect_SOAC\obj\Debug\Proiect_SOAC.csproj.GenerateResource.cache
+C:\Users\Andreea\facultate\proiect_SOAC\Proiect_SOAC\Proiect_SOAC\obj\Debug\Proiect_SOAC.exe
+C:\Users\Andreea\facultate\proiect_SOAC\Proiect_SOAC\Proiect_SOAC\obj\Debug\Proiect_SOAC.pdb
+C:\Users\Andreea\facultate\proiect_SOAC\Proiect_SOAC\Proiect_SOAC\obj\Debug\Proiect_SOAC.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+Trace: FTREE 
+ Corecte: 24166 
+ Total: 32887 
+ Acuratete: 73,48 % 
